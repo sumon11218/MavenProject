@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class Register_LogIn_With_Multiple_Users extends AbstractClass_MethodOverride{
 
-    String abc;
+    String abcd;
     WebDriverWait wait;
 
     @Test()
